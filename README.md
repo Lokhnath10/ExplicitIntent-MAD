@@ -204,9 +204,11 @@ public class MainActivity2 extends AppCompatActivity {
 
 ## OUTPUT
 
-(Screenshot_20260501_215306.png)
+### Home Screen : 
+<img width="1920" height="1200" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/a57da73b-a3cb-4ec3-8886-0e7cf879663b" />
 
-(Screenshot_20260501_215321.png)
+### Next Screen:
+<img width="1920" height="1200" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/8614fdaf-4e8d-4c5b-a30b-ae86a8781864" />
 
 ## RESULT
 
